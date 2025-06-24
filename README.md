@@ -65,4 +65,4 @@ Telegram频道传送门：全网热门频道都在这！娱乐八卦、资讯干
 
 《黑料大事记》系统盘点全网爆料大事件，时间线清晰、内容详实，快速还原舆情全貌。
 
-[Canonical link](）
+[Canonical link](https://github.com/dicey20250624/dicey20250624）
